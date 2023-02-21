@@ -1,6 +1,7 @@
 **O MNIE***
 
 **_Cześć!_** Na imię mam Kaja i zaczynam poszukiwania swojej pierwszej pracy w branży IT. Od prawie pół roku uczę się na testera manualnego i w moim repozytorium przedstawiam krótki projekt, w którym zawarłam takie elemanty jak:
+
 -*specyfikację funkcjonalności, czyli historyjki użytkownika wraz z kryteriami akceptacji,*
 -*przypadki testowe,*
 -*raport znalezionych defektów,*
