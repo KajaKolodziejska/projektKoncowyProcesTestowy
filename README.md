@@ -1,4 +1,4 @@
-**O MNIE***
+**O MNIE**
 
 **_Cześć!_** Na imię mam Kaja i zaczynam poszukiwania swojej pierwszej pracy w branży IT. Od prawie pół roku uczę się na testera manualnego i w moim repozytorium przedstawiam krótki projekt, w którym zawarłam takie elemanty jak:
 
@@ -17,8 +17,10 @@
 
 **CO POTRAFIĘ**
 
-Przez ostanie 5 miesięcy ćwiczyłam jak testować i dobrze raportować cały ten proces. Moje umiejętności są poszerzone o anlizę ryzyk i defektów, pisanie test planów, przypadków testowych, raportów defektów i raportów końcowych z testów. 
-Umiem korzystać z narzędzi takich jak ***Jira, TestRail, Postman oraz bazy MySQL i Selenium.*** 
+Przez ostanie 5 miesięcy ćwiczyłam jak testować i dobrze raportować cały ten proces.
+
+Moje umiejętności są poszerzone o anlizę ryzyk i defektów, pisanie test planów, przypadków testowych, raportów defektów i raportów końcowych z testów. 
+Umiem korzystać z narzędzi takich jak ***Jira, TestRail, Postman oraz bazy danych MySQL i Selenium.*** 
 
 
 **_Zachęcam do przeglądniecia mojej pracy i zweryfikowanie tych podstawowych umijętności!_** 
